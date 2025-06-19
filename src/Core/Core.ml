@@ -88,6 +88,7 @@ type whnf =
       * tp
       * tp
       * term
+      * term list
 
 let dataCName_of_string (s : string) : dataCName = s
 let typeCName_of_string (s : string) : typeCName = s

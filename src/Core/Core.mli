@@ -78,6 +78,7 @@ type whnf =
       * tp
       * tp
       * term
+      * term list
 
 val dataCName_of_string : string -> dataCName
 val typeCName_of_string : string -> typeCName
